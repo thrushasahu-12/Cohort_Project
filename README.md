@@ -1,7 +1,5 @@
-# Project 5: Cohort Retention & Trend Analysis (Capstone)
+# Project 5: Cohort Retention & Trend Analysis
 **ServiceNow ITSM | SQL + Python + Power BI Portfolio Project**
-**Author:** Thrusha Sahu | Data Analyst | Hyderabad, India
-
 ---
 
 ## Problem Statement
