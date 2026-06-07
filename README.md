@@ -1,4 +1,4 @@
-# Project 5: Cohort Retention & Trend Analysis
+# Cohort Retention & Trend Analysis
 **ServiceNow ITSM | SQL + Python + Power BI Portfolio Project**
 ---
 
